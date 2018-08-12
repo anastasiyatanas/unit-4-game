@@ -1,0 +1,38 @@
+
+body {
+    background-image: url("background.jpg");
+   
+}
+.img {
+    /* padding:20px; */
+    height: 283px;
+    width: 200px;
+    margin: 40px;
+    float: left;
+    left: 6%;
+    position: relative;
+}
+.welcome {
+    color: white;
+    float: middle;
+}
+
+
+.rules {
+    
+    margin: 26px;
+    color: white;
+   
+}
+/* #randomNum {
+    color:white;
+    
+}
+#totalScore {
+    color: white;
+    
+} */
+.number {
+    color: white;
+    text-align: center;
+}
